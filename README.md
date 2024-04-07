@@ -4,11 +4,10 @@
 
 
 
-- 🔭 I’m currently working on python
-- 🌱 I’m currently learning python
-- 👯 I’m looking to collaborate on python
-- 🤔 I’m looking for help with python
-- 💬 Ask me about python
+- 🔭 I’m currently working on Java & dsa
+- 🌱 I’m currently learning Java & dsa
+- 👯 I’m looking to collaborate on Java
+- 🤔 I’m looking for help with Java
 - 📫 How to reach me: shreya744
 - 😄 Pronouns: she/her
  <img src="https://i.pinimg.com/564x/7f/43/79/7f4379f8f32fc4b5dc1a2b7b376b1e0e.jpg">
