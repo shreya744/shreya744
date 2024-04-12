@@ -2,7 +2,7 @@
 
 I'm Shreya from India, I really enjoy learning programing languages, and currently working on Java & dsa, i have already learned python & Sql.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya744)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya744icons=true&theme=transparent)
 
 
 
