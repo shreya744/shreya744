@@ -1,6 +1,8 @@
-<h1> Hi I'm Sherya </h1> 
+### Hi there 👋
 
-<img src="https://i.pinimg.com/564x/e3/6a/d5/e36ad53a8beddb8614202dc3aa9dbdab.jpg">
+I'm Shreya from India, I really enjoy learning programing languages, and currently working on Java & dsa, i have already learned python & Sql.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya744)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
