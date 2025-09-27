@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++ & DSA**
 
-- 👯 I’m looking to collaborate on **J)C++**
+- 👯 I’m looking to collaborate on **C++**
 
 - 🤝 I’m looking for help with **C++**
 
