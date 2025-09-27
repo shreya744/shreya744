@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **C++**
 
-- 💬 Ask me about **Python, sql, c++ & dsa**
+- 💬 Ask me about **Python, sql,html, c++ & dsa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
