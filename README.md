@@ -1,15 +1,15 @@
 <h1 align="center">Hi there 👋, Shreya</h1>
 <h3 align="center">Learning</h3>
 
-- 🔭 I’m currently working on **Java & DSA**
+- 🔭 I’m currently working on **C++ & DSA**
 
-- 🌱 I’m currently learning **Java & DSA**
+- 🌱 I’m currently learning **C++ & DSA**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **J)C++**
 
-- 🤝 I’m looking for help with **Java**
+- 🤝 I’m looking for help with **C++**
 
-- 💬 Ask me about **Python, sql, java & dsa**
+- 💬 Ask me about **Python, sql, c++ & dsa**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
